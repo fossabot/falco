@@ -5,7 +5,8 @@
 **v0.13.0**
 Read the [change log](https://github.com/falcosecurity/falco/blob/dev/CHANGELOG.md)
 
-Dev Branch: [![Build Status](https://travis-ci.org/falcosecurity/falco.svg?branch=dev)](https://travis-ci.org/falcosecurity/falco)<br />
+Dev Branch: [![Build Status](https://travis-ci.org/falcosecurity/falco.svg?branch=dev)](https://travis-ci.org/falcosecurity/falco)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzt2%2Ffalco.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzt2%2Ffalco?ref=badge_shield)
+<br />
 Master Branch: [![Build Status](https://travis-ci.org/falcosecurity/falco.svg?branch=master)](https://travis-ci.org/falcosecurity/falco)
 
 ## Overview
@@ -57,6 +58,9 @@ Contributor License Agreements
 - [The Wikipedia article on CLAs](http://en.wikipedia.org/wiki/Contributor_license_agreement)
 
 As always, we are grateful for your past and present contributions to falco.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzt2%2Ffalco.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzt2%2Ffalco?ref=badge_large)
 
 ### What do I need to do in order to contribute code?
 
